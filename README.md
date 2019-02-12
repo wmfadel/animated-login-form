@@ -2,6 +2,14 @@
 
 A new Flutter application.
 
+A Flutter animated login/signup screen using delayed animations
+original design [here](https://dribbble.com/shots/5277959-Login-Screen-Exploration)
+
+
+<img src=https://github.com/mohamed0fadel/animated-login-form/blob/master/screenshots/1.gif width="320"/>
+<img src=https://github.com/mohamed0fadel/animated-login-form/blob/master/screenshots/2.gif width="320"/>
+
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
